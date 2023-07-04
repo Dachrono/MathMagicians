@@ -35,8 +35,6 @@
       "last 1 safari version"
     ]
   },
-  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
-  "main": "index.js",
   "devDependencies": {
     "@babel/core": "^7.22.5",
     "@babel/eslint-parser": "^7.22.5",
@@ -52,16 +50,5 @@
     "stylelint-config-standard": "^21.0.0",
     "stylelint-csstree-validator": "^1.9.0",
     "stylelint-scss": "^3.21.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Dachrono/MathMagicians.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Dachrono/MathMagicians/issues"
-  },
-  "homepage": "https://github.com/Dachrono/MathMagicians#readme"
+  }
 }
