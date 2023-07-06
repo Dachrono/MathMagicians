@@ -1,0 +1,26 @@
+.panel {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 50px 50px 50px 50px 50px;
+}
+
+.btn {
+  all: initial;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #dcdcdc;
+  border: 0.5px solid #808080;
+}
+
+#div,
+#mul,
+#sum,
+#res,
+#equal {
+  background-color: orange;
+}
+
+#zero {
+  grid-column: span 2;
+}

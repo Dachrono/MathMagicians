@@ -1,0 +1,17 @@
+.calc {
+  width: 50%;
+  margin: 15px 0;
+  display: flex;
+  flex-direction: column;
+  background-color: #808080;
+}
+
+.result {
+  margin: 5px 0;
+  padding: 10px 5px;
+  display: flex;
+  justify-content: flex-end;
+  color: #fff;
+  font-size: 30px;
+  background-color: #808080;
+}
