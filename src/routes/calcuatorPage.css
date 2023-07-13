@@ -1,11 +1,11 @@
 .containerCalculator {
-    height: 100vh;
-    background-color: #ffffffe6;   
+  height: 100vh;
+  background-color: #ffffffe6;
 }
 
 .itemsCalc {
-    padding: 0 20px;
-    display: flex;
-    justify-content: space-between;
-    gap: 50px;
+  padding: 0 20px;
+  display: flex;
+  justify-content: space-between;
+  gap: 50px;
 }
