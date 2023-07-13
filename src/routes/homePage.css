@@ -1,0 +1,13 @@
+.containerHome {
+    height: 100vh;
+    background-color: #ffffffe6;   
+}
+
+.titleHome {
+    padding: 20px;   
+}
+
+.pharHome {   
+    padding: 20px;
+    text-align: justify;
+}

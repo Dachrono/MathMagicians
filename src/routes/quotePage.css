@@ -1,0 +1,11 @@
+.containerQuote {
+    height: 100vh;
+    background-color: #ffffffe6;   
+}
+
+.itemsQuote {
+    padding: 50px 20px;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
