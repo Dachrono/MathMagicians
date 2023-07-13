@@ -58,12 +58,13 @@
 
 <!-- Features -->
 
-<!-- ### Key Features <a name="key-features"></a>
+### Key Features <a name="key-features"></a>
 
-- **[Create calculator]**
-- **[Create subpages]**
+- **[Use of React.js]**
+- **[Use motivational quotes]**
+- **[Use of route to SPA]**
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
